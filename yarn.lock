@@ -3230,9 +3230,9 @@ graphemer@^1.4.0:
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
 happy-dom@^10.0.0:
-  version "10.8.0"
-  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-10.8.0.tgz#b17a22f24b0b2523461f70dbd8663c9ca806f9fe"
-  integrity sha512-ux5UfhNA9ANGf4keV7FCd9GqeQr3Bz1u9qnoPtTL0NcO1MEOeUXIUwNTB9r84Z7Q8/bsgkwi6K114zjYvnCmag==
+  version "10.8.1"
+  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-10.8.1.tgz#0119f19875bdfec931ed58873b0023fd2116b092"
+  integrity sha512-hH+DKXH8To1NpVy9cyhLsq52C7ADxjIUfoaVdvDaHAkES8DIYooDTEPJ6Hkw7o4vKwvsGkQl9jSk/hRai4vE/A==
   dependencies:
     css.escape "^1.5.1"
     entities "^4.5.0"
