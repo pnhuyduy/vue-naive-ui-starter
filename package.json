@@ -35,7 +35,7 @@
     "@vue/test-utils": "^2.3.2",
     "eslint": "^8.40.0",
     "happy-dom": "^10.0.0",
-    "lint-staged": "^13.2.2",
+    "lint-staged": "^14.0.0",
     "naive-ui": "^2.34.3",
     "prettier": "^3.0.0",
     "simple-git-hooks": "^2.8.1",
