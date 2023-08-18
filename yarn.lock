@@ -1274,10 +1274,10 @@
   resolved "https://registry.yarnpkg.com/@juggle/resize-observer/-/resize-observer-3.4.0.tgz#08d6c5e20cf7e4cc02fd181c4b0c225cd31dbb60"
   integrity sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==
 
-"@lightwing/eslint-config@^0.0.19":
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/@lightwing/eslint-config/-/eslint-config-0.0.19.tgz#9aefc7fe813f57c9b4f6ce7ff4271a8639ac5875"
-  integrity sha512-UBH+VN/yVf4qzOb6VFapHQEkSpD6eSdqGLueR44ZMkfIBUJC22LzkV3qnCCe7bplT/dIz7gWVN0JN3isSn61nA==
+"@lightwing/eslint-config@^0.0.20":
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/@lightwing/eslint-config/-/eslint-config-0.0.20.tgz#b5566595cf2127306551588ddbbb7ae7f3daca1c"
+  integrity sha512-Dtq77zetj6ovys4LjhUEEtqopfcZYAr2qMLXEBju2Cyyyamy8l4+U9Zx06aIxPAMjGhyI+wvlCnVEI50ICt/+w==
   dependencies:
     "@antfu/eslint-config" "^0.40.2"
 
