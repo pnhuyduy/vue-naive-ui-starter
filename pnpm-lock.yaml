@@ -53,8 +53,8 @@ devDependencies:
     specifier: ^8.40.0
     version: 8.40.0
   happy-dom:
-    specifier: ^10.0.0
-    version: 10.0.0
+    specifier: ^11.0.0
+    version: 11.0.1
   lint-staged:
     specifier: ^14.0.0
     version: 14.0.0
@@ -87,7 +87,7 @@ devDependencies:
     version: 1.9.0(vite@4.3.2)
   vitest:
     specifier: ^0.34.0
-    version: 0.34.0(happy-dom@10.0.0)(sass@1.63.6)
+    version: 0.34.0(happy-dom@11.0.1)(sass@1.63.6)
   vue-tsc:
     specifier: ^1.4.2
     version: 1.4.2(typescript@5.0.2)
@@ -547,6 +547,7 @@ packages:
   /@babel/plugin-proposal-private-property-in-object@7.21.0(@babel/core@7.22.1):
     resolution: {integrity: sha512-ha4zfehbJjc5MmXBlHec1igel5TJXXLDDRbuJ4+XT2TJcyD9/V1919BA8gMvsdHcNMBy4WBUBiRb3nw/EQUtBw==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-property-in-object instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -562,6 +563,7 @@ packages:
   /@babel/plugin-proposal-unicode-property-regex@7.18.6(@babel/core@7.22.1):
     resolution: {integrity: sha512-2BShG/d5yoZyXZfVePH91urL5wTG6ASZU9M4o03lKK8u8UW1y08OMttBSOADTcJrnPMpvDXRG3G8fyLh4ovs8w==}
     engines: {node: '>=4'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-unicode-property-regex instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -3900,8 +3902,8 @@ packages:
     resolution: {integrity: sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==}
     dev: true
 
-  /happy-dom@10.0.0:
-    resolution: {integrity: sha512-qisxGYWhTe+Vx+8IcxOo0MgDLk3BIY0VRFC9LBLPyWYRIQWlkCAOhOEiMBqa7yVL3zh7lNxNKn+DKuIojpYHXg==}
+  /happy-dom@11.0.1:
+    resolution: {integrity: sha512-3U3kXpTbHQoCxItf5VhdHSSeX7ZKekcEx6hBZ5Ug12MeEASL89upfz6Nefv7pwTc5jWsXPHlVInjB1gID0HkwQ==}
     dependencies:
       css.escape: 1.5.1
       entities: 4.5.0
@@ -5918,7 +5920,7 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest@0.34.0(happy-dom@10.0.0)(sass@1.63.6):
+  /vitest@0.34.0(happy-dom@11.0.1)(sass@1.63.6):
     resolution: {integrity: sha512-8Pnc1fVt1P6uBncdUZ++hgiJGgxIRKuz4bmS/PQziaEcUj0D1g9cGiR1MbLrcsvFTC6fgrqDhYoTAdBG356WMA==}
     engines: {node: '>=v14.18.0'}
     hasBin: true
@@ -5962,7 +5964,7 @@ packages:
       cac: 6.7.14
       chai: 4.3.7
       debug: 4.3.4
-      happy-dom: 10.0.0
+      happy-dom: 11.0.1
       local-pkg: 0.4.3
       magic-string: 0.30.1
       pathe: 1.1.1
