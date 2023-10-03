@@ -3349,9 +3349,9 @@ graphemer@^1.4.0:
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
 happy-dom@^12.0.0:
-  version "12.6.0"
-  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-12.6.0.tgz#26a375dba38f6e50d84c321964c9b429a6d533c3"
-  integrity sha512-gwin5N69/F6A64Sa8umvduVW5PhZljTILMZN5niyAwPsLTw6fzl+c2CukUNoy5Lc5jb5g32QaMUKw9dBGO+NJw==
+  version "12.7.0"
+  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-12.7.0.tgz#9fa6995d4ef83d28420f758cb054a1b476508608"
+  integrity sha512-RwQINFxcSEwZ2+zzoridexdEuXGrYg/OTgK/VI6A8Vqm7pXYU405a1xvNfSLH2X3Zgv5XmZIh98sd6dASIFnmQ==
   dependencies:
     css.escape "^1.5.1"
     entities "^4.5.0"
