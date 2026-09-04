@@ -5404,9 +5404,7 @@ vite-plugin-pwa@^0.16.0:
     workbox-window "^7.0.0"
 
 vite-plugin-windicss@^1.9.0:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/vite-plugin-windicss/-/vite-plugin-windicss-1.9.1.tgz#8a31ec5c37248037db076305925b8c2e6472ff22"
-  integrity sha512-CWm1b/tXVCJTbEGn4oB8B7Gev9xDuY9k4E/KiJqDuLYspBUFQyZKPF2mSZ3DfNdojsfqgzxu9ervqvlb9jJ7fw==
+  version "1.9.4"
   dependencies:
     "@windicss/plugin-utils" "1.9.1"
     debug "^4.3.4"
